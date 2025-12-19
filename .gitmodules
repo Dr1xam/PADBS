@@ -1,0 +1,8 @@
+[submodule "PADBS-installer"]
+	path = PADBS-installer
+	url = https://github.com/Dr1xam/PADBS-installer.git
+	branch = master
+[submodule "PADBS-downloader"]
+	path = PADBS-downloader
+	url = https://github.com/Dr1xam/PADBS-downloader.git
+	branch = master
